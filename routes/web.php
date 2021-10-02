@@ -63,11 +63,4 @@ Route::get('/getuser', function(){
 //genres
 Route::get('/genres', [MoviesController::class, 'genres'])->name('movies.genres');
 
-
-//blogger
-Route::get('/blogger', function ()
-{
-    return view('temp');
-});
-
 Route::get('/', [PagesController::class, 'home'])->name('home');
