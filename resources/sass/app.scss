@@ -1,0 +1,199 @@
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.bg-dark-12 {
+    background-color: #121212 !important;
+}
+
+.bg-dark-18 {
+    background-color: #181818 !important;
+}
+
+.bg-dark-28 {
+    background-color: #282828 !important;
+}
+
+.bg-dark-40 {
+    background-color: #404040 !important;
+}
+
+.btn-black {
+    color: #fff;
+    background-color: #121212;
+    border-color: #121212;
+}
+
+.btn-black:hover {
+    color: #fff;
+    background-color: #181818;
+}
+
+.navbar .navbar-nav .nav-item .nav-lin:hover {
+    color: var(--bs-success);
+}
+
+.bg-popcorn {
+    background: #121212 url("/backgrounds/popcorn.jpg") center/cover no-repeat;
+    min-height: calc(100vh - 55px);
+    overflow: hidden;
+}
+
+.card-logo {
+    font-size: 25px;
+    line-height: 40px;
+    width: 40px;
+    text-align: center;
+    color: #aaa;
+}
+
+.card-border-success {
+    box-shadow: inset 0px -3px 0 0 var(--bs-success);
+}
+
+.card-border-danger {
+    box-shadow: inset 0px -3px 0 0 var(--bs-danger);
+}
+
+.card-border-primary {
+    box-shadow: inset 0px -3px 0 0 var(--bs-primary);
+}
+
+.card-border-danger {
+    box-shadow: inset 0px -3px 0 0 var(--bs-danger);
+}
+
+.hover-light:hover {
+    background-color: var(--bs-light) !important;
+    color: var(--bs-dark) !important;
+}
+
+.loading i {
+    font-size: 48px;
+    color: var(--bs-success);
+    animation: spin 1s linear infinite;
+}
+
+.outline-none:focus {
+    border-color: #ced4da;
+    outline: 0;
+    box-shadow: none;
+}
+
+.col-15 {
+    flex: 0 0 auto;
+    width: 20%;
+}
+
+@media (min-width: 576px) {
+    .col-sm-15 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}
+
+@media (min-width: 768px) {
+    .col-md-15 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-lg-15 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-xl-15 {
+        flex: 0 0 auto;
+        width: 20%;
+    }
+}
+
+a.movie-card-link {
+    text-decoration: none;
+    color: unset;
+    display: block;
+    transition: all cubic-bezier(0.075, 0.82, 0.165, 1) .4s;
+}
+
+a.movie-card-link:hover {
+    scale: 1.06;
+}
+
+a.movie-card-link .movie .watched {
+    transition: all cubic-bezier(0.075, 0.82, 0.165, 1) .4s;
+}
+
+a.movie-card-link:hover .watched {
+    scale: 0;
+}
+
+.text-indent {
+    text-indent: 50px;
+}
+
+.pagination {
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    margin-top: 10px;
+    box-shadow: 0 0 0 2px #404040;
+    border-radius: 50px;
+}
+
+.pagination li {
+    text-align: center;
+    float: left;
+}
+
+.pagination a {
+    display: block;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 5px 12px;
+    color: var(--bs-light);
+    margin-left: -1px;
+    line-height: 1.5;
+    background: #121212;
+    padding: 10px 15px;
+}
+
+.pagination a.active,
+.pagination a.disabled {
+    cursor: default;
+}
+
+.pagination a:hover:not(.disabled) {
+    color: #121212;
+    background-color: #404040;
+}
+
+.pagination a.prev {
+    border-radius: 50px 0 0 50px;
+    width: 50px;
+    position: relative;
+    color: var(--bs-light);
+}
+
+.pagination a.next {
+    border-radius: 0 50px 50px 0;
+    width: 50px;
+    position: relative;
+    color: var(--bs-light);
+}
+
+.pagination a.active {
+    background: #404040;
+    color: #121212;
+    box-shadow: 0 0 3px rgba(255, 255, 255, 0.15) inset;
+}
+
+.text-light-8C {
+    color: #8C8C8C !important;
+}

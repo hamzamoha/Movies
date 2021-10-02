@@ -1,0 +1,606 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+        "xmlns$georss": "http://www.georss.org/georss",
+        "xmlns$gd": "http://schemas.google.com/g/2005",
+        "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+        "id": { "$t": "tag:blogger.com,1999:blog-8888720866269464822" },
+        "updated": { "$t": "2021-09-29T18:57:34.585+01:00" },
+        "category": [
+            { "term": "fitness" },
+            { "term": "diet" },
+            { "term": "Headphones" }
+        ],
+        "title": { "type": "text", "$t": "Beauty" },
+        "subtitle": { "type": "html", "$t": "" },
+        "link": [{
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://b-for-beautifull.blogspot.com/feeds/posts/default"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default?alt=json"
+            },
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://b-for-beautifull.blogspot.com/"
+            },
+            { "rel": "hub", "href": "http://pubsubhubbub.appspot.com/" }
+        ],
+        "author": [{
+            "name": { "$t": "Hamza Bouchouf" },
+            "uri": {
+                "$t": "http://www.blogger.com/profile/04079767395511639704"
+            },
+            "email": { "$t": "noreply@blogger.com" },
+            "gd$image": {
+                "rel": "http://schemas.google.com/g/2005#thumbnail",
+                "width": "32",
+                "height": "32",
+                "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+            }
+        }],
+        "generator": {
+            "version": "7.00",
+            "uri": "http://www.blogger.com",
+            "$t": "Blogger"
+        },
+        "openSearch$totalResults": { "$t": "8" },
+        "openSearch$startIndex": { "$t": "1" },
+        "openSearch$itemsPerPage": { "$t": "25" },
+        "entry": [{
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-6728487592982929248"
+                },
+                "published": { "$t": "2021-09-29T15:47:00.003+01:00" },
+                "updated": { "$t": "2021-09-29T15:47:14.840+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "fitness"
+                }],
+                "title": { "type": "text", "$t": "Healthy or fit" },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n  \n    \n      The type, amount, and intensity of the activities you choose depend upon whether your goal is basic good health (a reduced risk of chronic illness) or \"fitness\" (strong, toned muscles and flexible joints as well as the aerobic conditioning needed to be healthy).\n    \n  \n  \n    \n  \n  \n    Getting healthy\n    \n      Aerobic exercise protects you from illness in several ways. It "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/6728487592982929248/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/healthy-or-fit.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/6728487592982929248"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/6728487592982929248"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/healthy-or-fit.html",
+                        "title": "Healthy or fit"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-b_I7fbXGu54/YVRzolWkF3I/AAAAAAAAOdA/Lb3HWTjQWHQcCl3Bh4dOKjxK7tkISqGhwCLcBGAsYHQ/s72-c/Healthy-or-Fit-1.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-1048525166173976175"
+                },
+                "published": { "$t": "2021-09-29T13:25:00.001+01:00" },
+                "updated": { "$t": "2021-09-29T13:25:49.449+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "fitness"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "Why is physical activity important"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n  \n    \n  \n  \n    \n      Studies show that people who stay physically active enjoy a higher quality of life overall than those with sedentary lifestyles and reap numerous benefits that include:\n    \n    1. Stronger ability to stave off illnesses such as diabetes\n    2. Quicker recovery from illnesses, injuries, and surgeries—and a more positive outlook during recovery    \n    3. Reduced risk of "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/1048525166173976175/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/why-is-physical-activity-important.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/1048525166173976175"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/1048525166173976175"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/why-is-physical-activity-important.html",
+                        "title": "Why is physical activity important"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-POesTOpjmv0/YVRWpf2s8LI/AAAAAAAAOc4/xVbTsc_At4MxMUxI6HYTM9g6ZjKhTQAgwCLcBGAsYHQ/s72-c/physical-activity.png",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-399071146443798020"
+                },
+                "published": { "$t": "2021-09-27T18:48:00.002+01:00" },
+                "updated": { "$t": "2021-09-27T18:48:28.059+01:00" },
+                "category": [{
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "diet"
+                    },
+                    {
+                        "scheme": "http://www.blogger.com/atom/ns#",
+                        "term": "fitness"
+                    }
+                ],
+                "title": {
+                    "type": "text",
+                    "$t": "Top 9 Best Foods for Fitness"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n  \n\n\n  1. Start With Whole-Grain Cereal\n  \n    If you don’t have enough to eat before you exercise, you may not have enough gas in the tank. You might burn fewer calories, too. Have some healthy carbs at least an hour in advance of your workout.\n    Try a bowl of whole-grain cereal with skim milk or some whole wheat toast or a bagel. Skip the cream cheese and butter. Saturated fats take longer "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/399071146443798020/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/top-9-best-foods-for-fitness.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/399071146443798020"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/399071146443798020"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/top-9-best-foods-for-fitness.html",
+                        "title": "Top 9 Best Foods for Fitness"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-J6sGD2bCPVM/YVH-Fs92uqI/AAAAAAAAOcY/9Eozm-39w4YFXU8dCes3_6TBY9_uJkeRwCLcBGAsYHQ/s72-c/fitness-food.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-7409889951591753666"
+                },
+                "published": { "$t": "2021-09-27T16:50:00.004+01:00" },
+                "updated": { "$t": "2021-09-27T16:50:51.103+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "fitness"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "Workout Motivation Tips: How to Stay Motivated to Exercise Regularly"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n    \n\n\n  \n    1. Choose your favorite activities\n    \n      You have to choose the physical activities that you prefer, if you do not like running, do not do that. Just walk or go to the gym or do some exercise at home, if you do not prefer to go out of the house.\n      There are many options for exercising, choose what you like and what suits you the best because this is the key to continuing.\n"
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/7409889951591753666/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/workout-motivation-tips-how-to-stay.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/7409889951591753666"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/7409889951591753666"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/workout-motivation-tips-how-to-stay.html",
+                        "title": "Workout Motivation Tips: How to Stay Motivated to Exercise Regularly"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-Zca0xOQWjuM/YVHoE4Lo7oI/AAAAAAAAObc/Dljl9e1BhN8FPPz1EJumjTwHLFdeMYiWQCLcBGAsYHQ/s72-c/fitness.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-1781247537188083416"
+                },
+                "published": { "$t": "2021-09-27T13:28:00.002+01:00" },
+                "updated": { "$t": "2021-09-27T15:56:45.641+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "fitness"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "How Walking Benefits Your Health, According to Doctors"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "\n    \n\n\n    1. Walking lowers your risk of heart disease.\n    \n        \"The heart is a muscle and the best way to strengthen your muscle is through training and getting out and being active,” says Shirley Rietdyk, Ph.D., professor of health and kinesiology at Purdue University. That’s probably why research abounds on the potential heart-health benefits of exercise and walking in particular. In "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/1781247537188083416/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/how-walking-benefits-your-health.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/1781247537188083416"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/1781247537188083416"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/how-walking-benefits-your-health.html",
+                        "title": "How Walking Benefits Your Health, According to Doctors"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-mMQbw7AVhRI/YVFr8hPBwiI/AAAAAAAAOa8/e5KVxsorWOgFDdcv2UPAe4YK5z4DlSbywCLcBGAsYHQ/s72-c/walking.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-5796471595217774007"
+                },
+                "published": { "$t": "2021-09-23T22:19:00.001+01:00" },
+                "updated": { "$t": "2021-09-23T22:19:13.382+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "diet"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "How fasting affects your heart and blood pressure"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "  Fasting and heart health The connection between fasting and good health is not something new. Ayurveda has harped about the importance and health benefits of fasting for a long time. But it certainly gained popularity in the past decade, all thanks to Intermittent fasting.Abstaining yourself from having food for a \nfixed period of time can lower blood pressure, reduce cholesterol, \ncontrol "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/5796471595217774007/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/how-fasting-affects-your-heart-and.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/5796471595217774007"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/5796471595217774007"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/how-fasting-affects-your-heart-and.html",
+                        "title": "How fasting affects your heart and blood pressure"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-n9WjUYP5hpY/YUztq1agwAI/AAAAAAAAOZ4/MEFC6X0C6ZseKdenaTHuks58NujeT5doQCLcBGAsYHQ/s72-c/fasting.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-2433687530335149486"
+                },
+                "published": { "$t": "2021-09-23T21:56:00.002+01:00" },
+                "updated": { "$t": "2021-09-23T21:56:24.083+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "diet"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "Low-carb diet: How much fat should you eat in a day?"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "Many people follow low-carb diet to lose weight. A low-carb diet limits your carbohydrate intake — such as those found in grains, legumes, pulses, bread, starchy vegetables, and fruit — and makes you depend on foods high in protein and fat. It can also help you fight and prevent Type 2 diabetes and metabolic diseases. There are also many different types of low-carb diets which have varying "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/2433687530335149486/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/low-carb-diet-how-much-fat-should-you.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/2433687530335149486"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/2433687530335149486"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/low-carb-diet-how-much-fat-should-you.html",
+                        "title": "Low-carb diet: How much fat should you eat in a day?"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-qEcSWihJ9gI/YUzpNHRSeiI/AAAAAAAAOZw/YpVFmBc24soXZ7EuY-g7g1GuOHf4z8hAQCLcBGAsYHQ/s72-c/diet.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            },
+            {
+                "id": {
+                    "$t": "tag:blogger.com,1999:blog-8888720866269464822.post-3720819979204990758"
+                },
+                "published": { "$t": "2021-09-22T18:20:00.002+01:00" },
+                "updated": { "$t": "2021-09-22T18:20:15.237+01:00" },
+                "category": [{
+                    "scheme": "http://www.blogger.com/atom/ns#",
+                    "term": "Headphones"
+                }],
+                "title": {
+                    "type": "text",
+                    "$t": "Headphones: Beats Studio Audio White"
+                },
+                "summary": {
+                    "type": "text",
+                    "$t": "   Headphones are a pair of small loudspeaker drivers worn on or around the head over a user's ears. They are electroacoustic transducers, which convert an electrical signal to a corresponding sound.Headphones let a single user listen to an audio source privately, in contrast to a loudspeaker, which emits sound into the open air for anyone nearby to hear.Headphones are also known as earspeakers, "
+                },
+                "link": [{
+                        "rel": "replies",
+                        "type": "application/atom+xml",
+                        "href": "https://b-for-beautifull.blogspot.com/feeds/3720819979204990758/comments/default",
+                        "title": "Post Comments"
+                    },
+                    {
+                        "rel": "replies",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/headphones-beats-studio-audio-white.html#comment-form",
+                        "title": "0 Comments"
+                    },
+                    {
+                        "rel": "edit",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/3720819979204990758"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://www.blogger.com/feeds/8888720866269464822/posts/default/3720819979204990758"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://b-for-beautifull.blogspot.com/2021/09/headphones-beats-studio-audio-white.html",
+                        "title": "Headphones: Beats Studio Audio White"
+                    }
+                ],
+                "author": [{
+                    "name": { "$t": "Hamza Bouchouf" },
+                    "uri": {
+                        "$t": "http://www.blogger.com/profile/04079767395511639704"
+                    },
+                    "email": { "$t": "noreply@blogger.com" },
+                    "gd$image": {
+                        "rel": "http://schemas.google.com/g/2005#thumbnail",
+                        "width": "32",
+                        "height": "32",
+                        "src": "//4.bp.blogspot.com/-Pp0HtONMpw0/YVHpwnsmpVI/AAAAAAAAObs/BQvKkhETzVE_rXKJH7MygnX5zhXQgOkcgCK4BGAYYCw/s220/16908147_261223481000724_682056521890136064_n.jpg"
+                    }
+                }],
+                "media$thumbnail": {
+                    "xmlns$media": "http://search.yahoo.com/mrss/",
+                    "url": "https://1.bp.blogspot.com/-dPvD67yE_oc/YUtlYbyNivI/AAAAAAAAOZo/hDedFFEsH8A-Kg5mxPp6Lt9H1eQG8YuLgCLcBGAsYHQ/s72-c/olia-nayda-0xoOOsFXbEE-unsplash.jpg",
+                    "height": "72",
+                    "width": "72"
+                },
+                "thr$total": { "$t": "0" }
+            }
+        ]
+    }
+}
