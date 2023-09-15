@@ -7,7 +7,7 @@ use App\Models\Movie;
 use App\Models\MovieGenre;
 use Illuminate\Http\Request;
 use Illuminate\Support\Str;
-use Intervention\Image\ImageManagerStatic as Image;
+use Intervention\Image\Facades\Image;
 use Illuminate\Support\Facades\Storage;
 
 class MoviesController extends Controller

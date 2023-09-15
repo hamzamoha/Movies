@@ -9,6 +9,8 @@ class PagesController extends Controller
 {
     public function home()
     {
+        
+
         $last_added = Movie::orderBy('id', 'desc')->limit(5)->get();
         $latest_movies = Movie::orderBy('year', 'desc')->limit(5)->get();
         $top_rating = Movie::orderBy('rating', 'desc')->limit(5)->get();
